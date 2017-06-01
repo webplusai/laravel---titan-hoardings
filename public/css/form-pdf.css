@@ -1,0 +1,130 @@
+
+.mrg-tb20 {
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+table {
+	margin-bottom: 10px !important;
+}
+.table-bordered > thead > tr > th, 
+.table-bordered > tbody > tr > th, 
+.table-bordered > tfoot > tr > th, 
+.table-bordered > thead > tr > td, 
+.table-bordered > tbody > tr > td, 
+.table-bordered > tfoot > tr > td {
+	border-color: #999;
+}
+.td-logo {
+	max-width: 100px;
+}
+td h3 {
+	text-align: center;
+}
+.table-header tr:first-child h3 {
+	font-weight: 600;
+}
+.table-header tr td:last-child {
+	width: 150px;
+	text-align: center;
+	padding: 7px 8px;
+}
+.table-header tr td:last-child h4 {
+	margin: 0;
+}
+.table-header tr td:last-child p {
+	font-size: 10px;
+	margin: 0;
+}
+.table-job-details tr td {
+	text-align: center;
+}
+.table-job-details tr td:nth-child(odd) {
+	background-color: #ddd;
+	text-transform: uppercase;
+	width: 90px;
+}
+.table-job-details tr td.centre {
+	width: 180px;
+}
+.table-components-tracking {
+	text-align: center;
+}
+.table-components-tracking tr:first-child {
+	background-color: #ddd;
+}
+.table-components-tracking tr td {
+	text-align: center;
+}
+.table-components-tracking tr td:first-child {
+	width: 240px;
+	text-align: left;
+}
+.table-components-tracking tr td:nth-child(2) {
+	width: 158px;
+}
+.table-components-tracking tr td:nth-child(3) {
+	width: 146px;
+}
+.table-components-tracking tr td:nth-child(5) {
+	width: 150px;
+}
+.table-components-tracking tr:first-child td:last-child {
+	text-align: center;
+}
+.table-components-tracking tr td:nth-child(4) {
+	text-align: right;
+}
+.table-components-tracking tr td h4 {
+	font-size: 16px;
+	font-weight: 600;
+}
+.table-components-tracking tr td p {
+	font-size: 10px;
+	margin: 0;
+}
+.red {
+	color:#f00;
+}
+.table-footer {
+	border-bottom: 1px solid #ddd;
+}
+.table-footer tr td {
+	text-align: center;
+}
+.table-footer tr td:first-child {
+	text-align: left;
+	width: 150px;
+}
+.table-footer tr td:last-child {
+	text-align: right;
+	width: 150px;
+}
+.table-footer p {
+	margin-bottom: 0;
+	font-size: 10px;
+}
+.table-installer tr td:first-child {
+	width: 250px;
+	background-color: #ddd;
+}
+.table-installer tr td:nth-child(3) {
+	width: 250px;
+	background-color: #ddd;
+}
+.table-installer h4 {
+	font-size: 16px;
+	font-weight: 600;
+}
+.table-installer h5 {
+	margin: 0;
+}
+.table-installer p {
+	font-size: 11px;
+}
+.table-installer ol {
+	padding-left: 10px;
+	margin-bottom: 0;
+}
+.table-installer ol li {
+	font-size: 10px;
+}

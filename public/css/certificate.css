@@ -1,0 +1,72 @@
+p {
+	font-size: 16px;
+	font-weight: 600;
+}
+label {
+	font-size: 16px;
+}
+ul li {
+	font-size: 16px;
+	font-weight: 600;  
+}
+.double-divider {
+	border-left: 10px double;;
+}
+.divider-2 {
+	background-repeat: no-repeat;
+	background-position: 99% 0%;
+	background-size: contain;
+	padding: 0 30px;
+}
+.edited-text{
+	color: #00f;
+}
+.red {
+	color: #f00;
+}
+.list-style-none {
+	list-style: none;
+}
+.padd-left67 {
+	padding-left: 67px;
+}
+.comment-div p {  
+	font-weight: 300;
+}
+.comment {
+	width: 250px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	display: inline-block;
+	border-bottom: 2px dotted #333;
+	margin-bottom: -7px;
+}
+.comment-signed {
+	width: 100px;
+	border-bottom: 2px dashed #333;
+	display: inline-block;
+}
+.contact-us {
+	margin-top: 5%;
+	color: #666;
+	font-weight: 700;
+}
+.contact-us span {
+	color: #000;
+	border-right: 2px solid #fdb813;
+	padding: 0 5px;
+	margin-right: 10px;
+}
+.contact-us a {
+	color: #666;
+}
+.contact-us a:hover {
+	color: #fdb813;
+}
+.mrg-top5 {
+	margin-top: 5px;
+}
+.mar-top30 {
+	margin-top: 30px;
+}

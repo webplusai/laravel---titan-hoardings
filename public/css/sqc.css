@@ -1,0 +1,63 @@
+body {
+	font-family: arial;
+	font-size: 7pt;
+}
+
+table {
+	border-collapse: collapse;
+	width: 100%;
+}
+
+th {
+	background: #ccc;
+	border: solid 1px #000;
+	font-weight: bold;
+	padding: 2px;
+}
+
+td {
+	border: solid 1px #000;
+	padding: 2px;
+}
+
+.text-left {
+	text-align: left;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.text-right {
+	text-align: right;
+}
+
+.notbold {
+	font-weight: normal;
+}
+
+.col-6 {
+	float: left;
+	width: 50%;
+}
+
+.pad-left {
+	padding-left: 10px;
+}
+
+.pad-right {
+	padding-right: 10px;
+}
+
+.text-red {
+	color: #c00;
+}
+
+.text-title {
+	font-size: 14pt;
+	font-weight: bold;
+}
+
+.shaded {
+	background-color: #eee;
+}
